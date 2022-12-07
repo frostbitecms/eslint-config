@@ -1,5 +1,5 @@
 {
-	"name": "@frostbite/eslint-config",
+	"name": "@frostbitecms/eslint-config",
 	"version": "0.1.0",
 	"description": "frostbite cms eslint config collection",
 	"engines": {
