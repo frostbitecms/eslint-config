@@ -28,11 +28,11 @@ yarn add -D @frostbitecms/eslint-config
 
 name | description | stable version 
 --|--|--
-`@webpuppy/eslint-config` | common rules shared between node/browser |  ✅
-`@webpuppy/eslint-config/cjs` | commonjs-specific rules | ✅
-`@webpuppy/eslint-config/module` | module-specific rules | ✅
-`@webpuppy/eslint-config/typescript` | typescript plugins / parser / rules | ✅
-`@webpuppy/eslint-config/react` | jsx / emotion style settings+rules | ✅
-`@webpuppy/eslint-config/lit` | lit html lint rules for web components | ✅
-`@webpuppy/eslint-config/jasmine` | jasmine test rules | ✅
-`@webpuppy/eslint-config/mocha` | mocha test rules | ✅
+`@frostbitecms/eslint-config` | common rules shared between node/browser |  ✅
+`@frostbitecms/eslint-config/cjs` | commonjs-specific rules | ✅
+`@frostbitecms/eslint-config/module` | module-specific rules | ✅
+`@frostbitecms/eslint-config/typescript` | typescript plugins / parser / rules | ✅
+`@frostbitecms/eslint-config/react` | jsx / emotion style settings+rules | ✅
+`@frostbitecms/eslint-config/lit` | lit html lint rules for web components | ✅
+`@frostbitecms/eslint-config/jasmine` | jasmine test rules | ✅
+`@frostbitecms/eslint-config/mocha` | mocha test rules | ✅
